@@ -2,6 +2,10 @@ image:
   repository: ghcr.io/dgtlmoon/changedetection.io
   pullPolicy: IfNotPresent
   tag: 0.45.20@sha256:eaec633118c9ea9b8e63618adfa7618a275dee1a66f0777e5da6b79138c46516
+playwrightChrome:
+  repository: dgtlmoon/sockpuppetbrowser
+  pullPolicy: IfNotPresent
+  tag: latest@sha256:b7f880ecb167abc73351bbfd27df99971f9267827765a6a9252cdd29d8c03835
 
 service:
   main:
