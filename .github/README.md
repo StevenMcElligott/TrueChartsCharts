@@ -10,7 +10,7 @@ title: TrueCharts
 
 ---
 
-TrueCharts is a catalog of highly optimised Helm Charts and TrueNAS SCALE Apps. Made for the community, By the community!
+TrueCharts is a catalog of highly optimised Helm dsadadasCharts and TrueNAS SCALE Apps. Made for the community, By the community!
 
 All our charts are supposed to work together, be easy to setup using both Helm and the TrueNAS UI and, above all, give the average user more than enough options to tune things to their liking.
 
